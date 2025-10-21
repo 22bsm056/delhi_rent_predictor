@@ -1,8 +1,0 @@
-selenium
-selenium-wire    # optional but recommended; script falls back if not present
-webdriver-manager
-beautifulsoup4
-fake-useragent
-pandas
-requests
-tqdm
